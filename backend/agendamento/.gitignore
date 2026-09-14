@@ -1,0 +1,15 @@
+# Front-end (React / Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# Back-end (Java / Maven)
+backend/target/
+backend/.mvn/
+backend/*.jar
+
+# IDEs e Sistema
+.vscode/
+.idea/
+*.iml
+.DS_Store
